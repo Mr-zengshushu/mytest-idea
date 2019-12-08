@@ -6,4 +6,5 @@ public class User {
     private String age;
     private Integer uid;
     private String uu;
+    private String dd;
 }
